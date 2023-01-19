@@ -52,7 +52,7 @@ body{
 .lucky_money1{
   
     width: 300px;
-    height: 500px;
+    height: 400px;
     background-color: rgb(255, 0, 0);
     /* border-radius: 20px; */
     /* margin-top:350px;
@@ -63,7 +63,7 @@ body{
 }  
  .lucky_money2{
     width: 300px;
-    height: 500px;
+    height: 400px;
     background: red;
     box-sizing: border-box;
     position: relative;
@@ -120,7 +120,7 @@ body{
 }
 .button1{
     width: 300px;
-    height: 500px;
+    height: 400px;
     margin-top: 350px; 
     margin-left: 1100px;
     padding-top:0px;
@@ -133,7 +133,8 @@ body{
   width: 300px;
   height: 500px;
   margin-top: 350px; 
-  margin-left: 1600px;
+  margin-left: 1500px;
+  margin-right:200px;
   padding-top:0px;
   border:none;
   background: rgb(255, 0, 0);
@@ -201,10 +202,10 @@ body{
   z-index:14;
 }
 .vansunhuy{
-  font-size: 55px;
+  font-size: 40px;
   font-family: 'Pacifico', cursive;
   color:yellow;
-  left: 100px;
+  left: 110px;
   top: 220px;
   display: flex;
   align-items: center;
@@ -213,10 +214,10 @@ body{
   z-index:10;
 }
 .vansu{
-  font-size: 55px;
+  font-size: 40px;
   font-family: 'Pacifico', cursive;
   color:yellow;
-  left: 100px;
+  left: 110px;
   top: 220px;
   display: flex;
   align-items: center;
